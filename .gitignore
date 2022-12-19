@@ -1,0 +1,12 @@
+# Environments
+
+ML_venv/
+
+# Folders
+
+
+# __pycache__
+
+
+*.pyc
+
