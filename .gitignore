@@ -2,8 +2,16 @@
 
 ML_venv/
 
+
+
 # Folders
 
+keras/logs_tensor
+
+#Files
+
+modelo.h5
+weights.h5
 
 # __pycache__
 
